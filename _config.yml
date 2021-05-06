@@ -1,7 +1,7 @@
 # Site settings
-course_name: "Nome da Disciplina"
-course_description: "Disciplina de Estrutura de Dados e Algoritmos do curso superior de Bacharelado em Ciência da Computação do IFB, campus Taguatinga."
-course_semester: "2020/1"
+course_name: "Algoritmos e Programação de Computadores ABI/LFI"
+course_description: "Disciplina de Algoritmos e Programação de Computadores dos cursos superiores de Bacharelado em Ciência da Computação, Licenciatura em Computação e Licenciatura em Física do IFB, campus Taguatinga."
+course_semester: "2021/1"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
