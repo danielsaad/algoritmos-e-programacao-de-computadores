@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/operadores.png
 links: 
     - url: /assets/listas-de-exercicios/entrada-saida-e-operadores.pdf
       name: pdf
+    - url: https://codeforces.com/group/2dgvoFrt9u/
+      name: codeforces
 ---

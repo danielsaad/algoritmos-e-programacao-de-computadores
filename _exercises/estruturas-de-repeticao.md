@@ -5,6 +5,6 @@ title: Estruturas de Repetição
 tldr: 
 thumbnail: /static_files/presentations/estruturas-de-repeticao.jpg
 links: 
-    - url: https://codeforces.com/group/2dgvoFrt9u/contest/304627
+    - url: https://codeforces.com/group/2dgvoFrt9u/
       name: codeforces
 ---
