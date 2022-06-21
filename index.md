@@ -6,4 +6,4 @@ Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/cour
 
 **Atendimento discente**: terças-feiras das 14h às 16h. 
 
-[**Discord da Disciplina**](https://discord.gg/QxRJWaMZ) 
+[**Discord da Disciplina**](https://discord.gg/CcQVavJUhz) 
