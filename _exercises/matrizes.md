@@ -1,6 +1,6 @@
 ---
 type: exercises
-date: 2018-09-15T0:00:05-3:00
+date: 2018-09-15T0:00:07-3:00
 title: Matrizes
 tldr: 
 thumbnail: /static_files/presentations/matrizes.jpg
