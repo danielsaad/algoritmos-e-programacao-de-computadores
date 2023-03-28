@@ -1,7 +1,7 @@
 # Site settings
 course_name: "Algoritmos e Programação de Computadores ABI/LFI"
 course_description: "Disciplina de Algoritmos e Programação de Computadores dos cursos superiores de Bacharelado em Ciência da Computação, Licenciatura em Computação e Licenciatura em Física do IFB, campus Taguatinga."
-course_semester: "2022/1"
+course_semester: "2023/1"
 
 baseurl: "/algoritmos-e-programacao-de-computadores" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
