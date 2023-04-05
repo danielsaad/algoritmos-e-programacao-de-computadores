@@ -5,6 +5,6 @@ title: Entrada/Saída e Operadores Aritméticos
 tldr: 
 thumbnail: /static_files/presentations/operadores.png
 links: 
-    - url: https://codeforces.com/group/2dgvoFrt9u/
+    - url: https://codeforces.com/group/2dgvoFrt9u/contests
       name: codeforces
 ---

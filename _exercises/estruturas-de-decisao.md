@@ -5,6 +5,6 @@ title: Estruturas de Decisão
 tldr: 
 thumbnail: /static_files/presentations/estruturas-de-decisao.jpg
 links: 
-    - url: https://codeforces.com/group/2dgvoFrt9u/
+    - url: https://codeforces.com/group/2dgvoFrt9u/contests
       name: codeforces
 ---
