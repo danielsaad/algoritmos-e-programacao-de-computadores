@@ -2,8 +2,7 @@
 layout: home
 ---
 
-Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/course/view.php?id=10701) para receber as notificações. Senha de acesso: **ifbnead**
+Registre-se na [sala de aula virtual da disciplina](https://classroom.google.com/c/NTQzNzgzOTQwNTkw?cjc=o5q546n)
 
-**Atendimento discente**: terças-feiras das 14h às 16h. 
+[Atendimento discente](https://danielsaad.com/contato) 
 
-[**Discord da Disciplina**](https://discord.gg/CcQVavJUhz) 
