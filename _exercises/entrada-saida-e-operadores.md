@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/operadores.png
 links: 
     - url: https://codeforces.com/group/2dgvoFrt9u/contests
       name: codeforces
+    - url: /assets/listas-de-exercicios/operacoes-aritmeticas-statement.pdf
+      name: pdf
 ---

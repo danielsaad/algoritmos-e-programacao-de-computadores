@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/estruturas-de-decisao.jpg
 links: 
     - url: https://codeforces.com/group/2dgvoFrt9u/contests
       name: codeforces
+    - url: /assets/listas-de-exercicios/estruturas-de-decisao-statement.pdf
+      name: pdf
 ---
